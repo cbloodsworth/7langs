@@ -1,0 +1,6 @@
+Fruit, Price, Color
+Banana, 1, Yellow
+Apple, 1, Red
+Strawberry, 3, Red
+Mango, 2, Orange
+Orange, 3, Orange
